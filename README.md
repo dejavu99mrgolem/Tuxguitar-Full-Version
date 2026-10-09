@@ -238,4 +238,4 @@ This repository serves as the official landing page for TuxGuitar. The software 
 **Get the most recent version of TuxGuitar today!**
 
 ---
-**Last updated:** 2026-10-09 01:51:41 UTC
+**Last updated:** 2026-10-09 08:42:30 UTC
